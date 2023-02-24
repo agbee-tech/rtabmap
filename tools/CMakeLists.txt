@@ -13,6 +13,7 @@ ADD_SUBDIRECTORY( DetectMoreLoopClosures )
 ADD_SUBDIRECTORY( Export )
 ADD_SUBDIRECTORY( Report )
 ADD_SUBDIRECTORY( Info )
+ADD_SUBDIRECTORY( Info2 )
 ADD_SUBDIRECTORY( CleanupLocalGrids )
 ADD_SUBDIRECTORY( GlobalBundleAdjustment )
 
